@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.topbar{
+  float: right;
+    margin-right: 42px;
+    margin-top: 30px
+}
+.add-btn{
+  background-color: cadetblue  !important;
+    color: white !important;
+}
+.container-btm{
+
+  margin-bottom: 19px;
+}
+.submit-btn{
+  color: green !important;
+}
+.cancel-btn{
+  color: red  !important;
+}
+.delete-btn{
+
+  color: white !important;
+  background-color: brown !important;
+}
+.edit-btn{
+  margin-right: 20px !important;
+    background-color: darkseagreen !important;
+    color: white !important;
+}
